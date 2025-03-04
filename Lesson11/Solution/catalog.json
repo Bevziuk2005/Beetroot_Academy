@@ -1,0 +1,26 @@
+[
+    {
+        "Laptop": "Laptop",
+        "price": 1200,
+        "manufacturer": "HP",
+        "screen": "15.6 inches",
+        "processor": "Intel Core i5",
+        "ram": "8 GB"
+    },
+    {
+        "Smartphone": "Smartphone",
+        "price": 700,
+        "manufacturer": "Samsung",
+        "screen": "6.4 inches",
+        "processor": "Snapdragon 855",
+        "ram": "6 GB"
+    },
+    {
+        "TV": "TV",
+        "price": 1000,
+        "manufacturer": "Sony",
+        "screen": "55 inches",
+        "screen_type": "OLED",
+        "resolution": "4K Ultra HD"
+    }
+]
